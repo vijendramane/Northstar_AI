@@ -1,7 +1,7 @@
 # Northstar AI
 
 ### AI-Powered Real Estate Sales Concierge
- 
+  
 Northstar AI is a conversational AI sales concierge built for the **Huvo AI Forward Deployed Engineer assignment**.
  
 It simulates an AI sales representative for **Northstar Homes**, helping prospective customers explore property options, share requirements, get qualified, handle objections, and schedule site visits through a natural conversation.
