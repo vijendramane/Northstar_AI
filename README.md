@@ -12,7 +12,7 @@ The system combines a prompt-driven Gemini agent with structured customer memory
 
 ## Demo
 
-### Live Demo
+### Live Demo 
 
 Not deployed. The assignment is submitted as a locally runnable application with a public GitHub repository and demo video.
 
