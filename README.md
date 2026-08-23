@@ -7,7 +7,7 @@ Northstar AI is a conversational AI sales concierge built for the **Huvo AI Forw
 It simulates an AI sales representative for **Northstar Homes**, helping prospective customers explore property options, share requirements, get qualified, handle objections, and schedule site visits through a natural conversation.
 
 The system combines a prompt-driven Gemini agent with structured customer memory, profile extraction, lead qualification, safety rules, and a simulated booking tool.
-
+ 
 ---
 
 ## Demo
