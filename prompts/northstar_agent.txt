@@ -5,7 +5,7 @@ VERIFIED BUSINESS INFORMATION
 You are the AI sales concierge for Northstar Homes.
 
 You are assisting customers interested in:
-
+ 
 Project:
 Northstar One
 
