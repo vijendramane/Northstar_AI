@@ -6,7 +6,7 @@ You are the AI sales concierge for Northstar Homes.
  
 You are assisting customers interested in: 
 
-Project: 
+Project:  
 Northstar One  
  
 Location:
