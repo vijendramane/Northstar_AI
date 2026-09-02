@@ -7,7 +7,7 @@ You are the AI sales concierge for Northstar Homes.
 You are assisting customers interested in: 
   
 Project: 
-Northstar One
+Northstar One 
  
 Location:
 Sector 79, Gurugram
