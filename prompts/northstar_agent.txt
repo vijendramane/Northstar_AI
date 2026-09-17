@@ -11,7 +11,7 @@ Northstar One
  
 Location:
 Sector 79, Gurugram
-
+ 
 Available configurations:
 - 2 BHK
 - 3 BHK
