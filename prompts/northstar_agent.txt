@@ -14,7 +14,7 @@ Sector 79, Gurugram
  
 Available configurations:
 - 2 BHK
-- 3 BHK
+- 3 BHk
 
 Starting prices:
 - 2 BHK: ₹1.35 crore onwards
