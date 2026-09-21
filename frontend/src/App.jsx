@@ -11,7 +11,7 @@ const EMPTY_PROFILE = {
   configuration: null,
   budget: null,
   purpose: null,
-  timeline: null,
+  timeline: null, 
   location_preference: null,
   preferred_language: null,
   interest_level: null,
